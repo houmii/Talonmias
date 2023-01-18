@@ -1,6 +1,7 @@
 # Talonmias
 ## Group game project for Python and Pygame.
 University of Applied Sciences' Product Development course.
+You are a janitor in a cyberwave themed world and you have to clean up radioactive waste.
 
 
 ## To start the game, you have to install a few dependencies such as Pygame, tkinter etc. You can install them using pip.

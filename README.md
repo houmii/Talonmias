@@ -1,7 +1,7 @@
 # Talonmias
 
-## Group game project for Python and Pygame.
 University of Applied Sciences' Product Development course.
+- Group game project for Python and Pygame.
 - You are a janitor in a cyberwave themed world and you have to clean up radioactive waste.
 
 

@@ -3,11 +3,11 @@
 University of Applied Sciences' Product Development course.
 
 
-- To start the game, you have to install a few dependencies such as Pygame, tkinter etc. You can install them using pipp.
-  pip install pygame
+## To start the game, you have to install a few dependencies such as Pygame, tkinter etc. You can install them using pip.
+- pip install pygame
 
-- Start game
-  python talonmias_main.py
+## Start Game
+- python talonmias_main.py
 
 
 
